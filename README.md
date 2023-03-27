@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/dbQwcjb/codepic.jpg" width="100%"> <br>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fventurebeat.com%2Fsecurity%2Fgitguardian-data-reveals-20-rise-in-secrets-hidden-in-public-github-repos%2F&psig=AOvVaw3Gx0cz9rwvlWXLa5FSGRgo&ust=1680018133123000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDT3LO5_P0CFQAAAAAdAAAAABAJ" width="100%"> <br>
 <h1 align="center">Hi 👋, I'm Omar Faruk</h1>
 <h3 align="center">An Curious about Web Developer</h3>
 
