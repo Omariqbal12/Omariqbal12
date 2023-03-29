@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/dbQwcjb/codepic.jpg" width="100%"> <br>
+<img src="https://i.ibb.co/WyDF6Sd/360-F-313404541-e9-YZ3pht6o-EEk-MXuhx-Tboq-XA2-B2-Sh-Nn-C.jpg" width="100%"> <br>
 <h1 align="center">Hi 👋, I'm Omar faruk</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
